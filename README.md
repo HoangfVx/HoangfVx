@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nguyen Hoang Vi
-- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science in University of Information Technology (UIT)
 
 <!---
