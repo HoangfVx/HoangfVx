@@ -1,10 +1,35 @@
 - 👋 Hi, I’m Nguyen Hoang Vi
 - 💻 I’m currently learning Computer Science in University of Information Technology (UIT)
 
-<!---
-nhvi/nhvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me   
+[<img align="left" alt="nhvi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="nhvi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+[facebook]: https://www.facebook.com/hoangvi.nguyen.mi55u
+[twitter]: https://twitter.com/1mi55U
+
+### ⚙ Languages, Tools, and Platforms:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
+<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>
+<img align="left" alt="Pytorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
+<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+<img align="left" alt="scikit_learn" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>          
+
+</br>
+
+
+<br />
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nhvi&" alt="nhvi" /></p>
+
+
+
+
 
 
 
