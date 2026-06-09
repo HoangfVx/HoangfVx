@@ -15,7 +15,6 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HoangfVx&show_icons=true&locale=en&layout=compact" alt="HoangfVx" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HoangfVx&show_icons=true&locale=en" alt="HoangfVx" /></p>
 
 
